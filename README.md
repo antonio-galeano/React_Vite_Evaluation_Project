@@ -1,6 +1,9 @@
 # React_Vite_Evaluation_Project
 
-This project is part of an educational series designed to enhance understanding of React's capabilities through three distinct exercises, each aimed at a specific aspect of React development. Each exercise is crafted within a React application created with Vite, focusing on practical applications of state management, component structuring, and interaction handling.
+This project is part of an educational series designed to enhance understanding of React's capabilities through three distinct exercises, each aimed at a specific aspect of React development. Each exercise is crafted within a React application created with Vite.
+
+Demo: A live demo of this project is available in the Netlify Platform: https://reactvite-eval.netlify.app/
+Feel free to explore the application and see it in action!
 
 ## Description
 
@@ -43,14 +46,9 @@ Navigate to the project directory and start the development server:
 npm run dev
 ```
 
-## Usage
-
 ### Exercise Navigation
 Access each exercise via the `App.jsx` component which serves as the entry point for running the different exercises. Use the navigation built into the application to switch between exercises.
 
-## Contributing
-
-Contributions are welcome. Please fork the repository and submit a pull request with your updates.
 
 ## Authors
 
@@ -65,3 +63,4 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE 
 - React documentation and community
 - Vite documentation
 - Federation of CÉGEPs (https://fedecegeps.ca/federation/a-propos/membres/) for CÉGEP logos and information
+  
