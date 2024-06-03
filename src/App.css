@@ -1,0 +1,25 @@
+.menu {
+  text-align: left;
+  background-color: #e5f5f8;
+}
+
+.menu button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #a0abad;
+  color: white;
+  cursor: pointer;
+  margin: 15px;
+  height: 30px;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.menu button:hover {
+  background-color: #899394;
+}
+
+.conteneur {
+  padding: 20px;
+}
